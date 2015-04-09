@@ -1,0 +1,19 @@
+e:\TESTING\Jenkins\NotePad\bin\classes.dex : \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\BuildConfig.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\NoteEditor$LinedEditText.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\NoteEditor.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\NotePad$NoteColumns.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\NotePad.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\NotePadProvider$DatabaseHelper.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\NotePadProvider.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\NotesList.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\NotesLiveFolder.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\R$attr.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\R$drawable.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\R$id.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\R$layout.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\R$menu.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\R$string.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\R.class \
+e:\TESTING\Jenkins\NotePad\bin\classes\com\example\android\notepad\TitleEditor.class \
+e:\TESTING\Jenkins\NotePad\bin\dexedLibs\emma_device-e7abedfd473ea2fef9e64b5edd94d893.jar \

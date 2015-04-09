@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- EMMA v2.0.5312 report, generated Thu Apr 09 10:45:49 ICT 2015 -->
+
+<report>
+  <stats>
+    <packages value="1"/>
+    <classes value="9"/>
+    <methods value="45"/>
+    <srcfiles value="6"/>
+    <srclines value="330"/>
+  </stats>
+  <data>
+    <all name="all classes">
+      <coverage type="class, %" value="44%  (4/9)"/>
+      <coverage type="method, %" value="20%  (9/45)"/>
+      <coverage type="block, %" value="14%  (197/1456)"/>
+      <coverage type="line, %" value="13%  (44/330)"/>
+
+      <package name="com.example.android.notepad">
+        <coverage type="class, %" value="44%  (4/9)"/>
+        <coverage type="method, %" value="20%  (9/45)"/>
+        <coverage type="block, %" value="14%  (197/1456)"/>
+        <coverage type="line, %" value="13%  (44/330)"/>
+
+        <srcfile name="NoteEditor.java">
+          <coverage type="class, %" value="0%   (0/2)"/>
+          <coverage type="method, %" value="0%   (0/14)"/>
+          <coverage type="block, %" value="0%   (0/544)"/>
+          <coverage type="line, %" value="0%   (0/135)"/>
+
+          <class name="NoteEditor">
+            <coverage type="class, %" value="0%   (0/1)"/>
+            <coverage type="method, %" value="0%   (0/12)"/>
+            <coverage type="block, %" value="0%   (0/479)"/>
+            <coverage type="line, %" value="0%   (0/121)"/>
+
+            <method name="&lt;static initializer&gt;">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/16)"/>
+              <coverage type="line, %" value="0%   (0/1)"/>
+            </method>
+            <method name="NoteEditor (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/3)"/>
+              <coverage type="line, %" value="0%   (0/2)"/>
+            </method>
+            <method name="cancelNote (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/43)"/>
+              <coverage type="line, %" value="0%   (0/12)"/>
+            </method>
+            <method name="deleteNote (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/22)"/>
+              <coverage type="line, %" value="0%   (0/6)"/>
+            </method>
+            <method name="onCreate (Bundle): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/100)"/>
+              <coverage type="line, %" value="0%   (0/23)"/>
+            </method>
+            <method name="onCreateOptionsMenu (Menu): boolean">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/38)"/>
+              <coverage type="line, %" value="0%   (0/6)"/>
+            </method>
+            <method name="onOptionsItemSelected (MenuItem): boolean">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/19)"/>
+              <coverage type="line, %" value="0%   (0/9)"/>
+            </method>
+            <method name="onPause (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/27)"/>
+              <coverage type="line, %" value="0%   (0/8)"/>
+            </method>
+            <method name="onPrepareOptionsMenu (Menu): boolean">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/51)"/>
+              <coverage type="line, %" value="0%   (0/12)"/>
+            </method>
+            <method name="onResume (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/76)"/>
+              <coverage type="line, %" value="0%   (0/19)"/>
+            </method>
+            <method name="onSaveInstanceState (Bundle): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/6)"/>
+              <coverage type="line, %" value="0%   (0/2)"/>
+            </method>
+            <method name="saveNote (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/78)"/>
+              <coverage type="line, %" value="0%   (0/21)"/>
+            </method>
+          </class>
+          <class name="NoteEditor$LinedEditText">
+            <coverage type="class, %" value="0%   (0/1)"/>
+            <coverage type="method, %" value="0%   (0/2)"/>
+            <coverage type="block, %" value="0%   (0/65)"/>
+            <coverage type="line, %" value="0%   (0/14)"/>
+
+            <method name="NoteEditor$LinedEditText (Context, AttributeSet): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/23)"/>
+              <coverage type="line, %" value="0%   (0/6)"/>
+            </method>
+            <method name="onDraw (Canvas): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/42)"/>
+              <coverage type="line, %" value="0%   (0/8)"/>
+            </method>
+          </class>
+        </srcfile>
+        <srcfile name="NotesLiveFolder.java">
+          <coverage type="class, %" value="0%   (0/1)"/>
+          <coverage type="method, %" value="0%   (0/3)"/>
+          <coverage type="block, %" value="0%   (0/70)"/>
+          <coverage type="line, %" value="0%   (0/20)"/>
+
+          <class name="NotesLiveFolder">
+            <coverage type="class, %" value="0%   (0/1)"/>
+            <coverage type="method, %" value="0%   (0/3)"/>
+            <coverage type="block, %" value="0%   (0/70)"/>
+            <coverage type="line, %" value="0%   (0/20)"/>
+
+            <method name="&lt;static initializer&gt;">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/7)"/>
+              <coverage type="line, %" value="0%   (0/2)"/>
+            </method>
+            <method name="NotesLiveFolder (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/3)"/>
+              <coverage type="line, %" value="0%   (0/1)"/>
+            </method>
+            <method name="onCreate (Bundle): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/60)"/>
+              <coverage type="line, %" value="0%   (0/17)"/>
+            </method>
+          </class>
+        </srcfile>
+        <srcfile name="TitleEditor.java">
+          <coverage type="class, %" value="0%   (0/1)"/>
+          <coverage type="method, %" value="0%   (0/6)"/>
+          <coverage type="block, %" value="0%   (0/101)"/>
+          <coverage type="line, %" value="0%   (0/24)"/>
+
+          <class name="TitleEditor">
+            <coverage type="class, %" value="0%   (0/1)"/>
+            <coverage type="method, %" value="0%   (0/6)"/>
+            <coverage type="block, %" value="0%   (0/101)"/>
+            <coverage type="line, %" value="0%   (0/24)"/>
+
+            <method name="&lt;static initializer&gt;">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/12)"/>
+              <coverage type="line, %" value="0%   (0/1)"/>
+            </method>
+            <method name="TitleEditor (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/3)"/>
+              <coverage type="line, %" value="0%   (0/1)"/>
+            </method>
+            <method name="onClick (View): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/3)"/>
+              <coverage type="line, %" value="0%   (0/2)"/>
+            </method>
+            <method name="onCreate (Bundle): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/40)"/>
+              <coverage type="line, %" value="0%   (0/9)"/>
+            </method>
+            <method name="onPause (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/26)"/>
+              <coverage type="line, %" value="0%   (0/6)"/>
+            </method>
+            <method name="onResume (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/17)"/>
+              <coverage type="line, %" value="0%   (0/5)"/>
+            </method>
+          </class>
+        </srcfile>
+        <srcfile name="NotesList.java">
+          <coverage type="class, %" value="100% (1/1)"/>
+          <coverage type="method, %" value="38%  (3/8)"/>
+          <coverage type="block, %" value="25%  (68/271)"/>
+          <coverage type="line, %" value="21%  (12/56)"/>
+
+          <class name="NotesList">
+            <coverage type="class, %" value="100% (1/1)"/>
+            <coverage type="method, %" value="38%  (3/8)"/>
+            <coverage type="block, %" value="25%  (68/271)"/>
+            <coverage type="line, %" value="21%  (12/56)"/>
+
+            <method name="onContextItemSelected (MenuItem): boolean">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/45)"/>
+              <coverage type="line, %" value="0%   (0/12)"/>
+            </method>
+            <method name="onCreateContextMenu (ContextMenu, View, ContextMenu$ContextMenuInfo): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/67)"/>
+              <coverage type="line, %" value="0%   (0/16)"/>
+            </method>
+            <method name="onCreateOptionsMenu (Menu): boolean">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/38)"/>
+              <coverage type="line, %" value="0%   (0/6)"/>
+            </method>
+            <method name="onListItemClick (ListView, View, int, long): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/35)"/>
+              <coverage type="line, %" value="0%   (0/6)"/>
+            </method>
+            <method name="onOptionsItemSelected (MenuItem): boolean">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/18)"/>
+              <coverage type="line, %" value="0%   (0/4)"/>
+            </method>
+            <method name="&lt;static initializer&gt;">
+              <coverage type="method, %" value="100% (1/1)"/>
+              <coverage type="block, %" value="100% (12/12)"/>
+              <coverage type="line, %" value="100% (1/1)"/>
+            </method>
+            <method name="NotesList (): void">
+              <coverage type="method, %" value="100% (1/1)"/>
+              <coverage type="block, %" value="100% (3/3)"/>
+              <coverage type="line, %" value="100% (1/1)"/>
+            </method>
+            <method name="onCreate (Bundle): void">
+              <coverage type="method, %" value="100% (1/1)"/>
+              <coverage type="block, %" value="100% (53/53)"/>
+              <coverage type="line, %" value="100% (10/10)"/>
+            </method>
+          </class>
+        </srcfile>
+        <srcfile name="NotePadProvider.java">
+          <coverage type="class, %" value="100% (2/2)"/>
+          <coverage type="method, %" value="45%  (5/11)"/>
+          <coverage type="block, %" value="27%  (125/460)"/>
+          <coverage type="line, %" value="34%  (31/92)"/>
+
+          <class name="NotePadProvider$DatabaseHelper">
+            <coverage type="class, %" value="100% (1/1)"/>
+            <coverage type="method, %" value="33%  (1/3)"/>
+            <coverage type="block, %" value="20%  (7/35)"/>
+            <coverage type="line, %" value="25%  (2/8)"/>
+
+            <method name="onCreate (SQLiteDatabase): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/4)"/>
+              <coverage type="line, %" value="0%   (0/2)"/>
+            </method>
+            <method name="onUpgrade (SQLiteDatabase, int, int): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/24)"/>
+              <coverage type="line, %" value="0%   (0/4)"/>
+            </method>
+            <method name="NotePadProvider$DatabaseHelper (Context): void">
+              <coverage type="method, %" value="100% (1/1)"/>
+              <coverage type="block, %" value="100% (7/7)"/>
+              <coverage type="line, %" value="100% (2/2)"/>
+            </method>
+          </class>
+          <class name="NotePadProvider">
+            <coverage type="class, %" value="100% (1/1)"/>
+            <coverage type="method, %" value="50%  (4/8)"/>
+            <coverage type="block, %" value="28%  (118/425)"/>
+            <coverage type="line, %" value="35%  (29/84)"/>
+
+            <method name="delete (Uri, String, String []): int">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/71)"/>
+              <coverage type="line, %" value="0%   (0/11)"/>
+            </method>
+            <method name="getType (Uri): String">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/20)"/>
+              <coverage type="line, %" value="0%   (0/4)"/>
+            </method>
+            <method name="insert (Uri, ContentValues): Uri">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/106)"/>
+              <coverage type="line, %" value="0%   (0/22)"/>
+            </method>
+            <method name="update (Uri, ContentValues, String, String []): int">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/73)"/>
+              <coverage type="line, %" value="0%   (0/11)"/>
+            </method>
+            <method name="query (Uri, String [], String, String [], String): Cursor">
+              <coverage type="method, %" value="100% (1/1)"/>
+              <coverage type="block, %" value="53%  (42/79)"/>
+              <coverage type="line, %" value="61%  (11/18)"/>
+            </method>
+            <method name="&lt;static initializer&gt;">
+              <coverage type="method, %" value="100% (1/1)"/>
+              <coverage type="block, %" value="100% (64/64)"/>
+              <coverage type="line, %" value="100% (14/14)"/>
+            </method>
+            <method name="NotePadProvider (): void">
+              <coverage type="method, %" value="100% (1/1)"/>
+              <coverage type="block, %" value="100% (3/3)"/>
+              <coverage type="line, %" value="100% (2/2)"/>
+            </method>
+            <method name="onCreate (): boolean">
+              <coverage type="method, %" value="100% (1/1)"/>
+              <coverage type="block, %" value="100% (9/9)"/>
+              <coverage type="line, %" value="100% (2/2)"/>
+            </method>
+          </class>
+        </srcfile>
+        <srcfile name="NotePad.java">
+          <coverage type="class, %" value="50%  (1/2)"/>
+          <coverage type="method, %" value="33%  (1/3)"/>
+          <coverage type="block, %" value="40%  (4/10)"/>
+          <coverage type="line, %" value="33%  (1/3)"/>
+
+          <class name="NotePad">
+            <coverage type="class, %" value="0%   (0/1)"/>
+            <coverage type="method, %" value="0%   (0/1)"/>
+            <coverage type="block, %" value="0%   (0/3)"/>
+            <coverage type="line, %" value="0%   (0/1)"/>
+
+            <method name="NotePad (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/3)"/>
+              <coverage type="line, %" value="0%   (0/1)"/>
+            </method>
+          </class>
+          <class name="NotePad$NoteColumns">
+            <coverage type="class, %" value="100% (1/1)"/>
+            <coverage type="method, %" value="50%  (1/2)"/>
+            <coverage type="block, %" value="57%  (4/7)"/>
+            <coverage type="line, %" value="50%  (1/2)"/>
+
+            <method name="NotePad$NoteColumns (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/3)"/>
+              <coverage type="line, %" value="0%   (0/1)"/>
+            </method>
+            <method name="&lt;static initializer&gt;">
+              <coverage type="method, %" value="100% (1/1)"/>
+              <coverage type="block, %" value="100% (4/4)"/>
+              <coverage type="line, %" value="100% (1/1)"/>
+            </method>
+          </class>
+        </srcfile>
+      </package>
+    </all>
+  </data>
+</report>

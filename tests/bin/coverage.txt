@@ -1,0 +1,20 @@
+[EMMA v2.0.5312 report, generated Thu Apr 09 10:45:49 ICT 2015]
+-------------------------------------------------------------------------------
+OVERALL COVERAGE SUMMARY:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+44%  (4/9)!	20%  (9/45)!	14%  (197/1456)!	13%  (44/330)!	all classes
+
+OVERALL STATS SUMMARY:
+
+total packages:	1
+total classes:	9
+total methods:	45
+total executable files:	6
+total executable lines:	330
+
+COVERAGE BREAKDOWN BY PACKAGE:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+44%  (4/9)!	20%  (9/45)!	14%  (197/1456)!	13%  (44/330)!	com.example.android.notepad
+-------------------------------------------------------------------------------
